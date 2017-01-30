@@ -10,7 +10,7 @@ As mentioned by Perry:
 >This is a computer language
 >that requires practice and patience
 
-Command line training has provided me the knowledge to create new navigate, access, and modify files and folders in my computer. This has been a completely new experience for me but I can already see the **major** benefits from using a command line efficienly. 
+Command line training has provided me the knowledge to navigate, access, and modify files and folders in my computer. This has been a completely new experience for me but I can already see the **major** benefits from using a command line efficienly. 
 
 The **GitHub** training offeres a community environemtn for project development. 
  *GitHub* offers various functions: 
